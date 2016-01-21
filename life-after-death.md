@@ -1,33 +1,33 @@
 >元記事：[Medium](https://medium.com/life-tips/we-built-an-app-it-shut-down-but-guess-what-you-see-when-you-open-it-up-now-ef9f96fd86a#.xgk57lerz)
 
-# Life after death — Life Tips.
+# 死後の生活 — 生活の知恵
 
-In 2014, we launched an app called [5by](http://techcrunch.com/2014/10/23
+2014年に、私たちは [5by](http://techcrunch.com/2014/10/23
 /stumbleupons-5by-relaunches-as-an-app-for-chatting-about-online-videos-with-
-friends/). It was like Pandora for Video. It won best app by Google, won a
-Webby award and was adored by hundreds of thousands of people.
+friends/) というアプリを立ち上げました。
+Pandra のビデオ版のようなアプリです。
+グーグルに最優秀アプリに選ばれ、Webby賞を受賞し、何十万もの人に愛されました。
 
-A month ago it was [shut down](http://thenextweb.com/apps/2015/12/05
-/stumbleupon-is-shuttering-its-video-discovery-service-5by/).
+1ヶ月前、それが[終了した](http://thenextweb.com/apps/2015/12/05
+/stumbleupon-is-shuttering-its-video-discovery-service-5by/)のです。
 
-Josh Kowarsky (kudos to Josh for the idea/execution → [[email
+Josh Kowarsky (このアイデアと実績に対する賞賛をこちらに → [[email
 protected]](https://medium.com/cdn-cgi/l/email-
-protection#ee84819d86c08581998f9c9d8597ae89838f8782c08d8183))+ team thought it
-would be a cool idea to have a game launch instead of a blank screen.
+protection#ee84819d86c08581998f9c9d8597ae89838f8782c08d8183)) とチームは、
+何も無い画面の代わりにゲームが出来るようにするのが良いアイデアだと考えました。
 
-Today if you open up 5by on iOS, you get a Flappy Bird like game with the 5by
-penguin as the bird would. Check it out below. What do you think?
+今、iOS で 5by を開くと、Flappy Bird のようなゲームをすることができます。
+ただし、鳥が 5by のペンギンになっています。下の画像を見てみて下さい。どうですか？
 
-Pretty cool, right?
+とてもクールでしょ？
 
-Yes, when people open up 5by, expecting to get a dose of fantastic videos ,
-they’ll be a bit disappointed. **But (!!)**, they still get _some_
-entertainment! It’s kinda like going to your favorite restaurant and finding
-out they don’t have open tables but they do have a seat at the bar. Even if
-it’s a limited bar menu, you still get fed.
+ええ、素晴らしいビデオをいっぱい見ようと期待して 5by を開いた人は、きっとちょっぴりがっかりするでしょう。
+**でも (!!)**、それでも _何かしらの_ エンターテイメントを楽しめるのです!
+それは例えば、好きなレストランに行って、テーブル席は空いてなかったけどカウンターに座れたようなものです。
+バーメニューに限定されていても、それでもお腹は満たされました。
 
-Please ❤ if you enjoyed this post
+この投稿が楽しめたら、❤ を押して下さい。
 
-Best,
+ではまた、
 
 Greg Isenberg

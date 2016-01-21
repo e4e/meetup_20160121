@@ -1,3 +1,5 @@
+>元記事：[Medium](https://medium.com/life-tips/we-built-an-app-it-shut-down-but-guess-what-you-see-when-you-open-it-up-now-ef9f96fd86a#.xgk57lerz)
+
 # Life after death — Life Tips.
 
 In 2014, we launched an app called [5by](http://techcrunch.com/2014/10/23

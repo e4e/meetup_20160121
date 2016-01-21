@@ -1,3 +1,5 @@
+>元記事：[doctordisruption](http://www.doctordisruption.com/design/principles-of-design-45-cathedral-effect/)
+
 # Principles of Design #45 – Cathedral Effect
 
 [![](http://www.doctordisruption.com/wp-

@@ -1,3 +1,5 @@
+>元記事：[intercooler.js](http://intercoolerjs.org/2016/01/18/rescuing-rest.html)
+
 # Simple AJAX using HTML attributes
 
 **_TLDR_**: REST is increasingly unfit for modern JSON API needs, but can be rescued by a return to HTML as a response format.

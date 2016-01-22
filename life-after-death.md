@@ -8,7 +8,7 @@
 
 １ヶ月前、シャットダウンされました。
 
-Josh Kowarsky+teamは、ブラックスクリーンになる代わりに新しいゲームのラウンチを
+Josh Kowarsky+teamは、空っぽなディスプレイの代わりに新しいゲームのラウンチを
 行うためには、それは素晴らしいアイディアになるだろうと考えた。
 
 今日、iSO上に5byを広げたらとしたら鳥にであろうペンギンのゲームのような
@@ -19,13 +19,6 @@ Flappy Birdを体験するだろう。
 そう、人々が5byを広げてくれたとき魅了するビデオのような
 クスリを手に入れると予想でき、少しがっかりしてしまうだろう。
 
-**But (!!)**, they still get _some_
-entertainment! It’s kinda like going to your favorite restaurant and finding
-out they don’t have open tables but they do have a seat at the bar. Even if
-it’s a limited bar menu, you still get fed.
-
-Please ❤ if you enjoyed this post
-
-Best,
-
-Greg Isenberg
+しかし、彼らはまだまだエンターテインメントを体験する。
+それは、大好きなレストランに言って、オープン席を見つけられなバーで席があるような
+ちょっとしたことだ。なにかメニューが決まっているけどまだご飯を食べれるようなそのような感じだ。
